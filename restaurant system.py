@@ -1,5 +1,5 @@
-#Written by Emin Ayyıldız Hüseyin Berk Keskin
-print("Written by Emin Ayyıldız Hüseyin Berk Keskin")
+#Written by Emin Ayyıldız-Hüseyin Berk Keskin
+print("Written by Emin Ayyıldız-Hüseyin Berk Keskin")
 
 from enum import Enum
 import time
