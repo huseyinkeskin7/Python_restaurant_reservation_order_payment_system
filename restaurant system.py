@@ -8,7 +8,7 @@ class PaymentMethod(Enum):
     CREDIT_CARD = 1
     PAYPAL = 2
     CASH = 3
-
+ 
 restaurant_table_list = {
     2: [{"reservation": None, "order_total": 0.0, "table_number": i} for i in range(1,11)],
     4: [{"reservation": None, "order_total": 0.0, "table_number": i} for i in range(11,21)],
